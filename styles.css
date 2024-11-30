@@ -1,0 +1,31 @@
+body {
+background-image: url('oldbg.jpeg');
+background-size: cover;
+background-attachment: fixed;
+}
+
+h1 {
+font-family: Monospace;
+color:#FFFFFF;
+text-align: center;
+font-size: 30px;
+}
+
+p 
+{
+font-family:Monospace;
+color:#2C3C42;}
+
+table 
+{
+background-color:#5E8392;
+cellpadding: 5px;
+width: 90%;
+}
+
+
+a{font-family:"Arial";font-size:20px;}
+a:link{color:black;}
+a:visited{color:white;}
+a:hover{color:#3897a6;}
+a:active{color:#12db4b;}
